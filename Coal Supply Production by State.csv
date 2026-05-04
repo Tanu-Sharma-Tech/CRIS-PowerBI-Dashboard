@@ -1,0 +1,831 @@
+Country,State,Year,Coal Category,Coal Supplying Company Name,Coal Supplyling Sector,Coal Type,"Coal Supplied (UOM:t(Tonne)), Scaling Factor:1000000"
+India,Assam,"Financial Year (Apr - Mar), 2020",COAL,NEC,CIL,COOKING,0
+India,Assam,"Financial Year (Apr - Mar), 2020",COAL,NEC,CIL,NON-COOKING,0.517
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,AMBUJA,PRIVATE,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,AMBUJA,PRIVATE,NON-COOKING,0.4
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,BALCO,PRIVATE,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,BALCO,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,CSPGCL,OTHER PUBLIC,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,CSPGCL,OTHER PUBLIC,NON-COOKING,0.509
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,HIL,PRIVATE,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,HIL,PRIVATE,NON-COOKING,0.674
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,NON-COOKING,0.19
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,RRVUNL,OTHER PUBLIC,COOKING,0
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,15
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,SECL,CIL,COOKING,0.25
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2020",COAL,SECL,CIL,NON-COOKING,139.721
+India,Gujarat,"Financial Year (Apr - Mar), 2020",LIGNITE,GHCL,PRIVATE,LIGNITE,0.083
+India,Gujarat,"Financial Year (Apr - Mar), 2020",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.342
+India,Gujarat,"Financial Year (Apr - Mar), 2020",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,6.957
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",COAL,JKML,OTHER PUBLIC,COOKING,0
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2020",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0136937760406865
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,BCCL,CIL,COOKING,25.801
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,BCCL,CIL,NON-COOKING,1.783
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,CCL,CIL,COOKING,20.027
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,CCL,CIL,NON-COOKING,46.862
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,DVC,OTHER PUBLIC,COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,DVC,OTHER PUBLIC,NON-COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,ECL,CIL,COOKING,0.026
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,ECL,CIL,NON-COOKING,21.21
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,HIL,PRIVATE,COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,HIL,PRIVATE,NON-COOKING,0.055
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.3
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,JSMDCL,OTHER PUBLIC,COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.068
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,NON-COOKING,9.421
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,SAIL,OTHER PUBLIC,COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,TISCO/TSL,PRIVATE,COOKING,6.21
+India,Jharkhand,"Financial Year (Apr - Mar), 2020",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0
+India,Ladakh,"Financial Year (Apr - Mar), 2020",COAL,JKML,OTHER PUBLIC,COOKING,0
+India,Ladakh,"Financial Year (Apr - Mar), 2020",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000306223959313531
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,JPVL,PRIVATE,COOKING,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,JPVL,PRIVATE,NON-COOKING,2.8
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,NCL,CIL,COOKING,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,NCL,CIL,NON-COOKING,90.023
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,RCCPL,PRIVATE,COOKING,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,RCCPL,PRIVATE,NON-COOKING,0.182
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,SECL,CIL,COOKING,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,SECL,CIL,NON-COOKING,10.575
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,SPL,PRIVATE,COOKING,0
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,SPL,PRIVATE,NON-COOKING,18.7
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,WCL,CIL,COOKING,0.178
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2020",COAL,WCL,CIL,NON-COOKING,3.268
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,SIL,PRIVATE,COOKING,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,SIL,PRIVATE,NON-COOKING,0.27
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,TUML,PRIVATE,COOKING,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,TUML,PRIVATE,NON-COOKING,0.286
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,WCL,CIL,COOKING,0
+India,Maharashtra,"Financial Year (Apr - Mar), 2020",COAL,WCL,CIL,NON-COOKING,54.19
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,GMR,PRIVATE,COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,GMR,PRIVATE,NON-COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,MCL,CIL,COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,MCL,CIL,NON-COOKING,140.358
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,NTPC,OTHER PUBLIC,NON-COOKING,1.54
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,OCL,PRIVATE,COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,OCL,PRIVATE,NON-COOKING,0.115
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,OCPL,PRIVATE,COOKING,0
+India,Odisha,"Financial Year (Apr - Mar), 2020",COAL,OCPL,PRIVATE,NON-COOKING,1.003
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,5.413
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,1.348
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.79
+India,Rajasthan,"Financial Year (Apr - Mar), 2020",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.672
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2020",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,23.516
+India,Telangana,"Financial Year (Apr - Mar), 2020",COAL,SCCL,OTHER PUBLIC,COOKING,0
+India,Telangana,"Financial Year (Apr - Mar), 2020",COAL,SCCL,OTHER PUBLIC,NON-COOKING,64.044
+India,Telangana,"Financial Year (Apr - Mar), 2020",COAL,TSPGCL,PRIVATE,COOKING,0
+India,Telangana,"Financial Year (Apr - Mar), 2020",COAL,TSPGCL,PRIVATE,NON-COOKING,1.659
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",COAL,NCL,CIL,COOKING,0
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2020",COAL,NCL,CIL,NON-COOKING,18.03
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,BCCL,CIL,COOKING,0.145
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,BCCL,CIL,NON-COOKING,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,CESC,PRIVATE,COOKING,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,CESC,PRIVATE,NON-COOKING,1.958
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,ECL,CIL,COOKING,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,ECL,CIL,NON-COOKING,29.165
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.234
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,WBPDCL,OTHER PUBLIC,COOKING,0
+India,West Bengal,"Financial Year (Apr - Mar), 2020",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,2.112
+India,Assam,"Financial Year (Apr - Mar), 2019",COAL,NEC,CIL,NON-COOKING,0.784
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,AMBUJA,PRIVATE,NON-COOKING,0.1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,BALCO,PRIVATE,NON-COOKING,0.667
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,HIL,PRIVATE,NON-COOKING,1.375
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,15
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,SECL,CIL,COOKING,0.247
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2019",COAL,SECL,CIL,NON-COOKING,144.504
+India,Gujarat,"Financial Year (Apr - Mar), 2019",LIGNITE,GHCL,PRIVATE,LIGNITE,0.093
+India,Gujarat,"Financial Year (Apr - Mar), 2019",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.313
+India,Gujarat,"Financial Year (Apr - Mar), 2019",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,9.16
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2019",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0127156491806374
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,BCCL,CIL,COOKING,23.283
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,BCCL,CIL,NON-COOKING,6.568
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,CCL,CIL,COOKING,9.34
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,CCL,CIL,NON-COOKING,59.381
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,ECL,CIL,COOKING,0.029
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,ECL,CIL,NON-COOKING,20.736
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,HIL,PRIVATE,NON-COOKING,0.798
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.443
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.003
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.228
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,NTPC,OTHER PUBLIC,NON-COOKING,7.311
+India,Jharkhand,"Financial Year (Apr - Mar), 2019",COAL,TISCO/TSL,PRIVATE,COOKING,6.546
+India,Ladakh,"Financial Year (Apr - Mar), 2019",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000284350819362564
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,JPVL,PRIVATE,NON-COOKING,2.8
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,NCL,CIL,NON-COOKING,81.228
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,RCCPL,PRIVATE,NON-COOKING,0.103
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,SECL,CIL,NON-COOKING,12.598
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,SPL,PRIVATE,NON-COOKING,18
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,WCL,CIL,COOKING,0.188
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2019",COAL,WCL,CIL,NON-COOKING,3.744
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",COAL,SIL,PRIVATE,NON-COOKING,0.27
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",COAL,TUML,PRIVATE,NON-COOKING,0.3
+India,Maharashtra,"Financial Year (Apr - Mar), 2019",COAL,WCL,CIL,NON-COOKING,49.248
+India,Odisha,"Financial Year (Apr - Mar), 2019",COAL,MCL,CIL,NON-COOKING,144.151
+India,Odisha,"Financial Year (Apr - Mar), 2019",COAL,OCL,PRIVATE,NON-COOKING,0.161
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,5.845
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,0
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,1.209
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.317
+India,Rajasthan,"Financial Year (Apr - Mar), 2019",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.305
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2019",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,23.041
+India,Telangana,"Financial Year (Apr - Mar), 2019",COAL,SCCL,OTHER PUBLIC,NON-COOKING,64.401
+India,Telangana,"Financial Year (Apr - Mar), 2019",COAL,TSPGCL,PRIVATE,NON-COOKING,0.759
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2019",COAL,NCL,CIL,NON-COOKING,20.275
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,BCCL,CIL,COOKING,1.056
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,BCCL,CIL,NON-COOKING,0.132
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,CESC,PRIVATE,NON-COOKING,1.856
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,ECL,CIL,NON-COOKING,29.395
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.297
+India,West Bengal,"Financial Year (Apr - Mar), 2019",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,0.4
+India,Assam,"Financial Year (Apr - Mar), 2018",COAL,NEC,CIL,NON-COOKING,0.781
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",COAL,HIL,PRIVATE,NON-COOKING,1.614
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,8.329
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",COAL,SECL,CIL,COOKING,0.182
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2018",COAL,SECL,CIL,NON-COOKING,132.421
+India,Gujarat,"Financial Year (Apr - Mar), 2018",LIGNITE,GHCL,PRIVATE,LIGNITE,0.057
+India,Gujarat,"Financial Year (Apr - Mar), 2018",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.123
+India,Gujarat,"Financial Year (Apr - Mar), 2018",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,10.601
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2018",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0136937760406865
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,BCCL,CIL,COOKING,22.286
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,BCCL,CIL,NON-COOKING,8.94
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,CCL,CIL,COOKING,9.577
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,CCL,CIL,NON-COOKING,53.828
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,DVC,OTHER PUBLIC,COOKING,0.047
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,ECL,CIL,COOKING,0.034
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,ECL,CIL,NON-COOKING,17.93
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,HIL,PRIVATE,NON-COOKING,0.8
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.415
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.001
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.351
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,NTPC,OTHER PUBLIC,NON-COOKING,2.679
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,SAIL,OTHER PUBLIC,COOKING,0.185
+India,Jharkhand,"Financial Year (Apr - Mar), 2018",COAL,TISCO/TSL,PRIVATE,COOKING,6.224
+India,Ladakh,"Financial Year (Apr - Mar), 2018",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000306223959313531
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,JPVL,PRIVATE,NON-COOKING,2.8
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,NCL,CIL,NON-COOKING,74.709
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,RCCPL,PRIVATE,NON-COOKING,0.063
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,SECL,CIL,NON-COOKING,12.106
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,SPL,PRIVATE,NON-COOKING,18.003
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,WCL,CIL,COOKING,0.18
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2018",COAL,WCL,CIL,NON-COOKING,4.266
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",COAL,SIL,PRIVATE,NON-COOKING,0.27
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",COAL,TUML,PRIVATE,NON-COOKING,0.175
+India,Maharashtra,"Financial Year (Apr - Mar), 2018",COAL,WCL,CIL,NON-COOKING,41.774
+India,Meghalaya,"Financial Year (Apr - Mar), 2018",COAL,MEG,PRIVATE,NON-COOKING,1.529
+India,Odisha,"Financial Year (Apr - Mar), 2018",COAL,GMR,PRIVATE,NON-COOKING,0.27
+India,Odisha,"Financial Year (Apr - Mar), 2018",COAL,MCL,CIL,NON-COOKING,143.058
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,6.265
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,1.584
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.019
+India,Rajasthan,"Financial Year (Apr - Mar), 2018",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.426
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2018",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,23.569
+India,Telangana,"Financial Year (Apr - Mar), 2018",COAL,SCCL,OTHER PUBLIC,NON-COOKING,62.01
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2018",COAL,NCL,CIL,NON-COOKING,18.309
+India,West Bengal,"Financial Year (Apr - Mar), 2018",COAL,BCCL,CIL,COOKING,1.018
+India,West Bengal,"Financial Year (Apr - Mar), 2018",COAL,BCCL,CIL,NON-COOKING,0.363
+India,West Bengal,"Financial Year (Apr - Mar), 2018",COAL,CESC,PRIVATE,NON-COOKING,1.878
+India,West Bengal,"Financial Year (Apr - Mar), 2018",COAL,ECL,CIL,NON-COOKING,25.604
+India,West Bengal,"Financial Year (Apr - Mar), 2018",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.377
+India,Assam,"Financial Year (Apr - Mar), 2017",COAL,NEC,CIL,NON-COOKING,0.6
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",COAL,BALCO,PRIVATE,NON-COOKING,0.18
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",COAL,HIL,PRIVATE,NON-COOKING,2
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,8.27
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",COAL,SECL,CIL,COOKING,0.11
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2017",COAL,SECL,CIL,NON-COOKING,127.96
+India,Gujarat,"Financial Year (Apr - Mar), 2017",LIGNITE,GHCL,PRIVATE,LIGNITE,0.08
+India,Gujarat,"Financial Year (Apr - Mar), 2017",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,2.82
+India,Gujarat,"Financial Year (Apr - Mar), 2017",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,7.65
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2017",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.00978126860049034
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,BCCL,CIL,COOKING,30.58
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,BCCL,CIL,NON-COOKING,4.32
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,CCL,CIL,COOKING,21.99
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,CCL,CIL,NON-COOKING,45.06
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,ECL,CIL,COOKING,0.03
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,ECL,CIL,NON-COOKING,16.9
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.7
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.56
+India,Jharkhand,"Financial Year (Apr - Mar), 2017",COAL,TISCO/TSL,PRIVATE,COOKING,6.32
+India,Ladakh,"Financial Year (Apr - Mar), 2017",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000218731399509665
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,JPVL,PRIVATE,NON-COOKING,2.8
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,NCL,CIL,NON-COOKING,68.04
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,RCCPL,PRIVATE,NON-COOKING,0.03
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,SECL,CIL,NON-COOKING,11.93
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,SPL,PRIVATE,NON-COOKING,17
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,WCL,CIL,COOKING,0.13
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2017",COAL,WCL,CIL,NON-COOKING,5.1
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",COAL,SIL,PRIVATE,NON-COOKING,0.15
+India,Maharashtra,"Financial Year (Apr - Mar), 2017",COAL,WCL,CIL,NON-COOKING,40.41
+India,Meghalaya,"Financial Year (Apr - Mar), 2017",COAL,MEG,PRIVATE,NON-COOKING,2.31
+India,Odisha,"Financial Year (Apr - Mar), 2017",COAL,GMR,PRIVATE,NON-COOKING,0.15
+India,Odisha,"Financial Year (Apr - Mar), 2017",COAL,MCL,CIL,NON-COOKING,139.21
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,6.01
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,1.41
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.55
+India,Rajasthan,"Financial Year (Apr - Mar), 2017",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.51
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2017",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,26.2
+India,Telangana,"Financial Year (Apr - Mar), 2017",COAL,SCCL,OTHER PUBLIC,NON-COOKING,61.34
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2017",COAL,NCL,CIL,NON-COOKING,16.06
+India,West Bengal,"Financial Year (Apr - Mar), 2017",COAL,BCCL,CIL,COOKING,1.82
+India,West Bengal,"Financial Year (Apr - Mar), 2017",COAL,BCCL,CIL,NON-COOKING,0.33
+India,West Bengal,"Financial Year (Apr - Mar), 2017",COAL,CESC,PRIVATE,NON-COOKING,1.74
+India,West Bengal,"Financial Year (Apr - Mar), 2017",COAL,ECL,CIL,NON-COOKING,23.58
+India,West Bengal,"Financial Year (Apr - Mar), 2017",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.2
+India,Assam,"Financial Year (Apr - Mar), 2016",COAL,NEC,OTHER PUBLIC,NON-COOKING,0.486
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",COAL,BALCO,PRIVATE,NON-COOKING,0.12
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",COAL,HIL,PRIVATE,NON-COOKING,0.069
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,6.21
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",COAL,SECL,CIL,COOKING,0.135
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2016",COAL,SECL,CIL,NON-COOKING,124.071
+India,Gujarat,"Financial Year (Apr - Mar), 2016",LIGNITE,GHCL,PRIVATE,LIGNITE,0.092
+India,Gujarat,"Financial Year (Apr - Mar), 2016",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.063
+India,Gujarat,"Financial Year (Apr - Mar), 2016",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,6.969
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2016",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0146719029007355
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,BCCL,CIL,COOKING,30.653
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,BCCL,CIL,NON-COOKING,2.65
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,CCL,CIL,COOKING,20.697
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,CCL,CIL,NON-COOKING,40.627
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,DVC,OTHER PUBLIC,COOKING,0.403
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,ECL,CIL,COOKING,0.012
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,ECL,CIL,NON-COOKING,19.035
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.572
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.19
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,TISCO/TSL,PRIVATE,COOKING,6.225
+India,Jharkhand,"Financial Year (Apr - Mar), 2016",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.003
+India,Ladakh,"Financial Year (Apr - Mar), 2016",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000328097099264497
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,JPVL,PRIVATE,NON-COOKING,2.8
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,NCL,CIL,NON-COOKING,67.535
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,SECL,CIL,NON-COOKING,13.728
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,SPL,PRIVATE,NON-COOKING,17.022
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,WCL,CIL,COOKING,0.209
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2016",COAL,WCL,CIL,NON-COOKING,6.42
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",COAL,SIL,PRIVATE,NON-COOKING,0.165
+India,Maharashtra,"Financial Year (Apr - Mar), 2016",COAL,WCL,CIL,NON-COOKING,38.186
+India,Meghalaya,"Financial Year (Apr - Mar), 2016",COAL,MEG,PRIVATE,NON-COOKING,3.715
+India,Odisha,"Financial Year (Apr - Mar), 2016",COAL,GMR,PRIVATE,NON-COOKING,0.56
+India,Odisha,"Financial Year (Apr - Mar), 2016",COAL,MCL,CIL,NON-COOKING,137.901
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,6.679
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.972
+India,Rajasthan,"Financial Year (Apr - Mar), 2016",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.617
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2016",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,25.451
+India,Telangana,"Financial Year (Apr - Mar), 2016",COAL,SCCL,OTHER PUBLIC,NON-COOKING,70.38
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2016",COAL,NCL,CIL,NON-COOKING,12.689
+India,West Bengal,"Financial Year (Apr - Mar), 2016",COAL,BCCL,CIL,COOKING,1.995
+India,West Bengal,"Financial Year (Apr - Mar), 2016",COAL,BCCL,CIL,NON-COOKING,0.563
+India,West Bengal,"Financial Year (Apr - Mar), 2016",COAL,CESC,PRIVATE,NON-COOKING,1.877
+India,West Bengal,"Financial Year (Apr - Mar), 2016",COAL,ECL,CIL,NON-COOKING,21.161
+India,West Bengal,"Financial Year (Apr - Mar), 2016",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.155
+India,Assam,"Financial Year (Apr - Mar), 2015",COAL,NEC,OTHER PUBLIC,NON-COOKING,0.779
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,JNL,PRIVATE,NON-COOKING,0.703
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,JPL,PRIVATE,NON-COOKING,6.248
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,JSPL,PRIVATE,NON-COOKING,5.989
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,MIL/MIEL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,3.443
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,SECL,CIL,COOKING,0.126
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,SECL,CIL,NON-COOKING,115.066
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2015",COAL,SEML,PRIVATE,NON-COOKING,1.189
+India,Gujarat,"Financial Year (Apr - Mar), 2015",LIGNITE,GHCL,PRIVATE,LIGNITE,0.2
+India,Gujarat,"Financial Year (Apr - Mar), 2015",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.404
+India,Gujarat,"Financial Year (Apr - Mar), 2015",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,8.7
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2015",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0127156491806374
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,BCCL,CIL,COOKING,30.194
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,BCCL,CIL,NON-COOKING,3.27
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,CCL,CIL,COOKING,19.326
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,CCL,CIL,NON-COOKING,36.326
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,DVC,OTHER PUBLIC,NON-COOKING,0.066
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,ECL,CIL,COOKING,0.03
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,ECL,CIL,NON-COOKING,19.372
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,ESCL,PRIVATE,COOKING,0.413
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,ESCL,PRIVATE,NON-COOKING,0.023
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.42
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,3.433
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,SAIL,OTHER PUBLIC,COOKING,0.024
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0.001
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,TISCO/TSL,PRIVATE,COOKING,6.028
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.016
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,UML,PRIVATE,NON-COOKING,0.79
+India,Jharkhand,"Financial Year (Apr - Mar), 2015",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,4
+India,Ladakh,"Financial Year (Apr - Mar), 2015",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000284350819362564
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,BLA,PRIVATE,NON-COOKING,0.3
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,MPSMCL,OTHER PUBLIC,NON-COOKING,1.5
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,NCL,CIL,NON-COOKING,57.527
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,SECL,CIL,NON-COOKING,13.083
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,SPL,PRIVATE,NON-COOKING,9.406
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,WCL,CIL,COOKING,0.31
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2015",COAL,WCL,CIL,NON-COOKING,5.483
+India,Maharashtra,"Financial Year (Apr - Mar), 2015",COAL,BSIL,PRIVATE,NON-COOKING,0.031
+India,Maharashtra,"Financial Year (Apr - Mar), 2015",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.478
+India,Maharashtra,"Financial Year (Apr - Mar), 2015",COAL,SIL,PRIVATE,NON-COOKING,0.196
+India,Maharashtra,"Financial Year (Apr - Mar), 2015",COAL,TUML,PRIVATE,NON-COOKING,0.198
+India,Maharashtra,"Financial Year (Apr - Mar), 2015",COAL,WCL,CIL,NON-COOKING,35.354
+India,Meghalaya,"Financial Year (Apr - Mar), 2015",COAL,MEG,PRIVATE,NON-COOKING,5.732
+India,Odisha,"Financial Year (Apr - Mar), 2015",COAL,HIL,PRIVATE,NON-COOKING,2.248
+India,Odisha,"Financial Year (Apr - Mar), 2015",COAL,MCL,CIL,NON-COOKING,121.379
+India,Rajasthan,"Financial Year (Apr - Mar), 2015",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,7
+India,Rajasthan,"Financial Year (Apr - Mar), 2015",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.405
+India,Rajasthan,"Financial Year (Apr - Mar), 2015",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,1.005
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2015",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,26.543
+India,Telangana,"Financial Year (Apr - Mar), 2015",COAL,SCCL,OTHER PUBLIC,NON-COOKING,52.536
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2015",COAL,NCL,CIL,NON-COOKING,14.957
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,BCCL,CIL,COOKING,0.576
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,BCCL,CIL,NON-COOKING,0.472
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,DVC EMTA,OTHER PUBLIC,NON-COOKING,1.001
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,ECL,CIL,COOKING,0.004
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,ECL,CIL,NON-COOKING,20.6
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,ICML,PRIVATE,NON-COOKING,3.492
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.206
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,SOVA,PRIVATE,NON-COOKING,0.4
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,WBMDTCL,OTHER PUBLIC,NON-COOKING,1.042
+India,West Bengal,"Financial Year (Apr - Mar), 2015",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,2.221
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2014",COAL,SCCL,OTHER PUBLIC,NON-COOKING,29.5824524206842
+India,Assam,"Financial Year (Apr - Mar), 2014",COAL,NEC,OTHER PUBLIC,NON-COOKING,0.664
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,JNL,PRIVATE,NON-COOKING,0.446
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,JPL,PRIVATE,NON-COOKING,6.226
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,JSPL,PRIVATE,NON-COOKING,5.999
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.919
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,1.197
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,SECL,CIL,COOKING,0.125
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,SECL,CIL,NON-COOKING,110.018
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2014",COAL,SEML,PRIVATE,NON-COOKING,1.165
+India,Gujarat,"Financial Year (Apr - Mar), 2014",LIGNITE,GHCL,PRIVATE,LIGNITE,0.19
+India,Gujarat,"Financial Year (Apr - Mar), 2014",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.006
+India,Gujarat,"Financial Year (Apr - Mar), 2014",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,8.398
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2014",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0185844103409316
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,BCCL,CIL,COOKING,28.709
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,BCCL,CIL,NON-COOKING,2.356
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,CCL,CIL,COOKING,18.441
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,CCL,CIL,NON-COOKING,31.581
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,DVC,OTHER PUBLIC,NON-COOKING,0.054
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,ECL,CIL,COOKING,0.038
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,ECL,CIL,NON-COOKING,17.133
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,ESCL,PRIVATE,COOKING,0.41
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,ESCL,PRIVATE,NON-COOKING,0.051
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.541
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,5.879
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,SAIL,OTHER PUBLIC,COOKING,0.044
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0.025
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,TISCO/TSL,PRIVATE,COOKING,6.905
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.067
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,UML,PRIVATE,NON-COOKING,0.762
+India,Jharkhand,"Financial Year (Apr - Mar), 2014",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,0.095
+India,Ladakh,"Financial Year (Apr - Mar), 2014",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000415589659068363
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,BLA,PRIVATE,NON-COOKING,0.3
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,MPSMCL,OTHER PUBLIC,NON-COOKING,0.005
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,NCL,CIL,NON-COOKING,53.918
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,SECL,CIL,NON-COOKING,14.118
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,SPL,PRIVATE,NON-COOKING,1.695
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,WCL,CIL,COOKING,0.249
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2014",COAL,WCL,CIL,NON-COOKING,5.305
+India,Maharashtra,"Financial Year (Apr - Mar), 2014",COAL,BSIL,PRIVATE,NON-COOKING,0.081
+India,Maharashtra,"Financial Year (Apr - Mar), 2014",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.502
+India,Maharashtra,"Financial Year (Apr - Mar), 2014",COAL,SIL,PRIVATE,NON-COOKING,0.148
+India,Maharashtra,"Financial Year (Apr - Mar), 2014",COAL,TUML,PRIVATE,NON-COOKING,0.317
+India,Maharashtra,"Financial Year (Apr - Mar), 2014",COAL,WCL,CIL,NON-COOKING,34.175
+India,Meghalaya,"Financial Year (Apr - Mar), 2014",COAL,MEG,PRIVATE,NON-COOKING,5.732
+India,Odisha,"Financial Year (Apr - Mar), 2014",COAL,HIL,PRIVATE,NON-COOKING,2.478
+India,Odisha,"Financial Year (Apr - Mar), 2014",COAL,MCL,CIL,NON-COOKING,110.439
+India,Rajasthan,"Financial Year (Apr - Mar), 2014",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,3.75
+India,Rajasthan,"Financial Year (Apr - Mar), 2014",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.428
+India,Rajasthan,"Financial Year (Apr - Mar), 2014",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.89
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2014",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,26.609
+India,Telangana,"Financial Year (Apr - Mar), 2014",COAL,SCCL,OTHER PUBLIC,NON-COOKING,20.8865475793158
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2014",COAL,NCL,CIL,NON-COOKING,14.721
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,BCCL,CIL,COOKING,1.346
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,BCCL,CIL,NON-COOKING,0.201
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,DVC EMTA,OTHER PUBLIC,NON-COOKING,1.519
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,ECL,CIL,COOKING,0.01
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,ECL,CIL,NON-COOKING,18.866
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,ICML,PRIVATE,NON-COOKING,2.708
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.081
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,SOVA,PRIVATE,NON-COOKING,0.276
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,WBMDTCL,OTHER PUBLIC,NON-COOKING,0.726
+India,West Bengal,"Financial Year (Apr - Mar), 2014",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,2.511
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2013",COAL,SCCL,OTHER PUBLIC,NON-COOKING,31.1773691623807
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2013",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.073
+India,Assam,"Financial Year (Apr - Mar), 2013",COAL,NEC,OTHER PUBLIC,NON-COOKING,0.605
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,JNL,PRIVATE,NON-COOKING,0.48
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,JPL,PRIVATE,NON-COOKING,5.25
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,JSPL,PRIVATE,NON-COOKING,5.999
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.795
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,RRVUNL,OTHER PUBLIC,NON-COOKING,0.293
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,SECL,CIL,COOKING,0.157
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,SECL,CIL,NON-COOKING,102.88
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2013",COAL,SEML,PRIVATE,NON-COOKING,0.976
+India,Gujarat,"Financial Year (Apr - Mar), 2013",LIGNITE,GHCL,PRIVATE,LIGNITE,0.297
+India,Gujarat,"Financial Year (Apr - Mar), 2013",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,3.326
+India,Gujarat,"Financial Year (Apr - Mar), 2013",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,10.905
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2013",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0185844103409316
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,BCCL,CIL,COOKING,26.95
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,BCCL,CIL,NON-COOKING,4.195
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,CCL,CIL,COOKING,16.181
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,CCL,CIL,NON-COOKING,31.88
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,DVC,OTHER PUBLIC,NON-COOKING,0.203
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,ECL,CIL,COOKING,0.033
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,ECL,CIL,NON-COOKING,16.29
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,ESCL,PRIVATE,COOKING,0.094
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,ESCL,PRIVATE,NON-COOKING,0.005
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.56
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,6.926
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,SAIL,OTHER PUBLIC,COOKING,0.033
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0.069
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,TISCO/TSL,PRIVATE,COOKING,7.214
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.081
+India,Jharkhand,"Financial Year (Apr - Mar), 2013",COAL,UML,PRIVATE,NON-COOKING,0.56
+India,Ladakh,"Financial Year (Apr - Mar), 2013",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000415589659068363
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,BLA,PRIVATE,NON-COOKING,0.3
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,NCL,CIL,NON-COOKING,53.931
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,SECL,CIL,NON-COOKING,15.182
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,SPL,PRIVATE,NON-COOKING,0.225
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,WCL,CIL,COOKING,0.33
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2013",COAL,WCL,CIL,NON-COOKING,5.98
+India,Maharashtra,"Financial Year (Apr - Mar), 2013",COAL,BSIL,PRIVATE,NON-COOKING,0.062
+India,Maharashtra,"Financial Year (Apr - Mar), 2013",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.506
+India,Maharashtra,"Financial Year (Apr - Mar), 2013",COAL,SIL,PRIVATE,NON-COOKING,0.248
+India,Maharashtra,"Financial Year (Apr - Mar), 2013",COAL,TUML,PRIVATE,NON-COOKING,0.341
+India,Maharashtra,"Financial Year (Apr - Mar), 2013",COAL,WCL,CIL,NON-COOKING,35.977
+India,Meghalaya,"Financial Year (Apr - Mar), 2013",COAL,MEG,PRIVATE,NON-COOKING,5.64
+India,Odisha,"Financial Year (Apr - Mar), 2013",COAL,HIL,PRIVATE,NON-COOKING,2.237
+India,Odisha,"Financial Year (Apr - Mar), 2013",COAL,MCL,CIL,NON-COOKING,107.895
+India,Rajasthan,"Financial Year (Apr - Mar), 2013",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,3.5
+India,Rajasthan,"Financial Year (Apr - Mar), 2013",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.387
+India,Rajasthan,"Financial Year (Apr - Mar), 2013",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.815
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2013",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,26.223
+India,Telangana,"Financial Year (Apr - Mar), 2013",COAL,SCCL,OTHER PUBLIC,NON-COOKING,22.0126308376193
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2013",COAL,NCL,CIL,NON-COOKING,16.09
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,BCCL,CIL,COOKING,0.02
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,BCCL,CIL,NON-COOKING,0.046
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,DVC EMTA,OTHER PUBLIC,NON-COOKING,1.836
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,ECL,CIL,COOKING,0.01
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,ECL,CIL,NON-COOKING,17.568
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,ICML,PRIVATE,NON-COOKING,3.129
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.155
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,SOVA,PRIVATE,NON-COOKING,0.089
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,WBMDTCL,OTHER PUBLIC,NON-COOKING,0.348
+India,West Bengal,"Financial Year (Apr - Mar), 2013",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,3.266
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2012",COAL,SCCL,OTHER PUBLIC,NON-COOKING,30.6035273799034
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2012",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.221
+India,Assam,"Financial Year (Apr - Mar), 2012",COAL,NEC,OTHER PUBLIC,NON-COOKING,0.602
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,JNL,PRIVATE,NON-COOKING,0.48
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,JPL,PRIVATE,NON-COOKING,5.25
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,JSPL,PRIVATE,NON-COOKING,5.998
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.851
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,SECL,CIL,COOKING,0.189
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,SECL,CIL,NON-COOKING,99.416
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2012",COAL,SEML,PRIVATE,NON-COOKING,0.774
+India,Gujarat,"Financial Year (Apr - Mar), 2012",LIGNITE,GHCL,PRIVATE,LIGNITE,0.389
+India,Gujarat,"Financial Year (Apr - Mar), 2012",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,2.716
+India,Gujarat,"Financial Year (Apr - Mar), 2012",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,11.343
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2012",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0195625372009807
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,BCCL,CIL,COOKING,27.216
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,BCCL,CIL,NON-COOKING,2.957
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,CCL,CIL,COOKING,15.549
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,CCL,CIL,NON-COOKING,32.455
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,DVC,OTHER PUBLIC,COOKING,0.328
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,ECL,CIL,COOKING,0.041
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,ECL,CIL,NON-COOKING,14.209
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,ESCL,PRIVATE,COOKING,0.106
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.434
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.118
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,8.301
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,SAIL,OTHER PUBLIC,COOKING,0.04
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,TISCO/TSL,PRIVATE,COOKING,7.394
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.067
+India,Jharkhand,"Financial Year (Apr - Mar), 2012",COAL,UML,PRIVATE,NON-COOKING,0.351
+India,Ladakh,"Financial Year (Apr - Mar), 2012",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000437462799019329
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2012",COAL,BLA,PRIVATE,NON-COOKING,0.299
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2012",COAL,NCL,CIL,NON-COOKING,50.223
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2012",COAL,SECL,CIL,NON-COOKING,14.232
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2012",COAL,WCL,CIL,COOKING,0.319
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2012",COAL,WCL,CIL,NON-COOKING,6.05
+India,Maharashtra,"Financial Year (Apr - Mar), 2012",COAL,BSIL,PRIVATE,NON-COOKING,0.003
+India,Maharashtra,"Financial Year (Apr - Mar), 2012",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.189
+India,Maharashtra,"Financial Year (Apr - Mar), 2012",COAL,SIL,PRIVATE,NON-COOKING,0.16
+India,Maharashtra,"Financial Year (Apr - Mar), 2012",COAL,TUML,PRIVATE,NON-COOKING,0.066
+India,Maharashtra,"Financial Year (Apr - Mar), 2012",COAL,WCL,CIL,NON-COOKING,36.741
+India,Meghalaya,"Financial Year (Apr - Mar), 2012",COAL,MEG,PRIVATE,NON-COOKING,7.206
+India,Odisha,"Financial Year (Apr - Mar), 2012",COAL,HIL,PRIVATE,NON-COOKING,2.357
+India,Odisha,"Financial Year (Apr - Mar), 2012",COAL,MCL,CIL,NON-COOKING,103.119
+India,Rajasthan,"Financial Year (Apr - Mar), 2012",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,2.12
+India,Rajasthan,"Financial Year (Apr - Mar), 2012",LIGNITE,VSLPPL,OTHER PUBLIC,LIGNITE,0.843
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2012",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,24.472
+India,Telangana,"Financial Year (Apr - Mar), 2012",COAL,SCCL,OTHER PUBLIC,NON-COOKING,21.6074726200966
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2012",COAL,NCL,CIL,NON-COOKING,16.178
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,BCCL,CIL,COOKING,0.034
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,BECML,PRIVATE,NON-COOKING,2.598
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,DVC EMTA,OTHER PUBLIC,NON-COOKING,1.165
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,ECL,CIL,COOKING,0.01
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,ECL,CIL,NON-COOKING,16.298
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,ICML,PRIVATE,NON-COOKING,3.745
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.164
+India,West Bengal,"Financial Year (Apr - Mar), 2012",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,0.216
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2011",COAL,SCCL,OTHER PUBLIC,NON-COOKING,30.0888868436264
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2011",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.299
+India,Assam,"Financial Year (Apr - Mar), 2011",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.101
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,JNL,PRIVATE,NON-COOKING,0.406
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,JPL,PRIVATE,NON-COOKING,5.688
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,JSPL,PRIVATE,NON-COOKING,5.999
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.952
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,SECL,CIL,COOKING,0.163
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,SECL,CIL,NON-COOKING,99.184
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2011",COAL,SEML,PRIVATE,NON-COOKING,0.432
+India,Gujarat,"Financial Year (Apr - Mar), 2011",LIGNITE,GHCL,PRIVATE,LIGNITE,0.311
+India,Gujarat,"Financial Year (Apr - Mar), 2011",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,2.521
+India,Gujarat,"Financial Year (Apr - Mar), 2011",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,10.232
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2011",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0234750446411768
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,BCCL,CIL,COOKING,25.254
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,BCCL,CIL,NON-COOKING,3.721
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,CCL,CIL,COOKING,15.435
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,CCL,CIL,NON-COOKING,32.086
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,DVC,OTHER PUBLIC,COOKING,0.311
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,ECL,CIL,COOKING,0.039
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,ECL,CIL,NON-COOKING,15.444
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,ESCL,PRIVATE,COOKING,0.034
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.855
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.399
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,8.031
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,SAIL,OTHER PUBLIC,COOKING,0.014
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0.014
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,TISCO/TSL,PRIVATE,COOKING,7.003
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.023
+India,Jharkhand,"Financial Year (Apr - Mar), 2011",COAL,UML,PRIVATE,NON-COOKING,0.3
+India,Ladakh,"Financial Year (Apr - Mar), 2011",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000524955358823195
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2011",COAL,BLA,PRIVATE,NON-COOKING,0.297
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2011",COAL,NCL,CIL,NON-COOKING,50.727
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2011",COAL,SECL,CIL,NON-COOKING,13.358
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2011",COAL,WCL,CIL,COOKING,0.403
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2011",COAL,WCL,CIL,NON-COOKING,6.319
+India,Maharashtra,"Financial Year (Apr - Mar), 2011",COAL,BSIL,PRIVATE,NON-COOKING,0.015
+India,Maharashtra,"Financial Year (Apr - Mar), 2011",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.275
+India,Maharashtra,"Financial Year (Apr - Mar), 2011",COAL,SIL,PRIVATE,NON-COOKING,0.114
+India,Maharashtra,"Financial Year (Apr - Mar), 2011",COAL,WCL,CIL,NON-COOKING,36.932
+India,Meghalaya,"Financial Year (Apr - Mar), 2011",COAL,MEG,PRIVATE,NON-COOKING,6.974
+India,Odisha,"Financial Year (Apr - Mar), 2011",COAL,HIL,PRIVATE,NON-COOKING,2.285
+India,Odisha,"Financial Year (Apr - Mar), 2011",COAL,MCL,CIL,NON-COOKING,100.28
+India,Rajasthan,"Financial Year (Apr - Mar), 2011",LIGNITE,BLMCL,OTHER PUBLIC,LIGNITE,0.642
+India,Rajasthan,"Financial Year (Apr - Mar), 2011",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.883
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2011",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,23.144
+India,Telangana,"Financial Year (Apr - Mar), 2011",COAL,SCCL,OTHER PUBLIC,NON-COOKING,21.2441131563736
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2011",COAL,NCL,CIL,NON-COOKING,15.526
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,BCCL,CIL,COOKING,0.029
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,BECML,PRIVATE,NON-COOKING,2.876
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,DVC EMTA,OTHER PUBLIC,NON-COOKING,0.021
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,ECL,CIL,COOKING,0.007
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,ECL,CIL,NON-COOKING,15.313
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,ICML,PRIVATE,NON-COOKING,2.929
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.227
+India,West Bengal,"Financial Year (Apr - Mar), 2011",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,0.257
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2010",COAL,SCCL,OTHER PUBLIC,NON-COOKING,29.559006382585
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2010",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.251
+India,Assam,"Financial Year (Apr - Mar), 2010",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.113
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,JNL,PRIVATE,NON-COOKING,0.56
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,JPL,PRIVATE,NON-COOKING,6.045
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,JSPL,PRIVATE,NON-COOKING,5.999
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,MIL/MIEL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,PIL,PRIVATE,NON-COOKING,1
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,SECL,CIL,COOKING,0.15
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,SECL,CIL,NON-COOKING,94.908
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2010",COAL,SEML,PRIVATE,NON-COOKING,0.291
+India,Gujarat,"Financial Year (Apr - Mar), 2010",LIGNITE,GHCL,PRIVATE,LIGNITE,0.316
+India,Gujarat,"Financial Year (Apr - Mar), 2010",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,1.836
+India,Gujarat,"Financial Year (Apr - Mar), 2010",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,8.374
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2010",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0224969177811278
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,BCCL,CIL,COOKING,19.126
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,BCCL,CIL,NON-COOKING,8.323
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,CCL,CIL,COOKING,16.209
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,CCL,CIL,NON-COOKING,30.874
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,DVC,OTHER PUBLIC,COOKING,0.141
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,ECL,CIL,COOKING,0.045
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,ECL,CIL,NON-COOKING,13.94
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,ESCL,PRIVATE,COOKING,0.055
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.932
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.461
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,8.476
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,SAIL,OTHER PUBLIC,NON-COOKING,0.063
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,TISCO/TSL,PRIVATE,COOKING,7.158
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.052
+India,Jharkhand,"Financial Year (Apr - Mar), 2010",COAL,UML,PRIVATE,NON-COOKING,0.062
+India,Ladakh,"Financial Year (Apr - Mar), 2010",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000503082218872229
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2010",COAL,BLA,PRIVATE,NON-COOKING,0.299
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2010",COAL,NCL,CIL,NON-COOKING,53.702
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2010",COAL,SECL,CIL,NON-COOKING,12.951
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2010",COAL,WCL,CIL,COOKING,0.545
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2010",COAL,WCL,CIL,NON-COOKING,6.577
+India,Maharashtra,"Financial Year (Apr - Mar), 2010",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,2.252
+India,Maharashtra,"Financial Year (Apr - Mar), 2010",COAL,SIL,PRIVATE,NON-COOKING,0.14
+India,Maharashtra,"Financial Year (Apr - Mar), 2010",COAL,WCL,CIL,NON-COOKING,38.613
+India,Meghalaya,"Financial Year (Apr - Mar), 2010",COAL,MEG,PRIVATE,NON-COOKING,5.767
+India,Odisha,"Financial Year (Apr - Mar), 2010",COAL,HIL,PRIVATE,NON-COOKING,2.33
+India,Odisha,"Financial Year (Apr - Mar), 2010",COAL,MCL,CIL,NON-COOKING,104.079
+India,Rajasthan,"Financial Year (Apr - Mar), 2010",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,1.207
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2010",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,22.338
+India,Telangana,"Financial Year (Apr - Mar), 2010",COAL,SCCL,OTHER PUBLIC,NON-COOKING,20.869993617415
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2010",COAL,NCL,CIL,NON-COOKING,13.968
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,BCCL,CIL,COOKING,0.035
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,BCCL,CIL,NON-COOKING,0.028
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,BECML,PRIVATE,NON-COOKING,3.303
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,ECL,CIL,COOKING,0.017
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,ECL,CIL,NON-COOKING,16.056
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,ICML,PRIVATE,NON-COOKING,3.213
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.366
+India,West Bengal,"Financial Year (Apr - Mar), 2010",COAL,WBPDCL,OTHER PUBLIC,NON-COOKING,0.115
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2009",COAL,SCCL,OTHER PUBLIC,NON-COOKING,26.1106803291485
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2009",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.142
+India,Assam,"Financial Year (Apr - Mar), 2009",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.009
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,JNL,PRIVATE,NON-COOKING,0.396
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,JPL,PRIVATE,NON-COOKING,4.893
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,JSPL,PRIVATE,NON-COOKING,5.998
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.989
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,PIL,PRIVATE,NON-COOKING,0.919
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,SECL,CIL,COOKING,0.146
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,SECL,CIL,NON-COOKING,88.573
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2009",COAL,SEML,PRIVATE,NON-COOKING,0.008
+India,Gujarat,"Financial Year (Apr - Mar), 2009",LIGNITE,GHCL,PRIVATE,LIGNITE,0.283
+India,Gujarat,"Financial Year (Apr - Mar), 2009",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,1.72
+India,Gujarat,"Financial Year (Apr - Mar), 2009",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,8.111
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2009",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0107593954605394
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,BCCL,CIL,COOKING,13.047
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,BCCL,CIL,NON-COOKING,12.338
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,CCL,CIL,COOKING,12.538
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,CCL,CIL,NON-COOKING,30.698
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,DVC,OTHER PUBLIC,COOKING,0.267
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,ECL,CIL,COOKING,0.025
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,ECL,CIL,NON-COOKING,12.727
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,ESCL,PRIVATE,COOKING,0.013
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.738
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.01
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.401
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,6.175
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,TISCO/TSL,PRIVATE,COOKING,7.249
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.033
+India,Jharkhand,"Financial Year (Apr - Mar), 2009",COAL,UML,PRIVATE,NON-COOKING,0.013
+India,Ladakh,"Financial Year (Apr - Mar), 2009",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000240604539460631
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2009",COAL,BLA,PRIVATE,NON-COOKING,0.236
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2009",COAL,NCL,CIL,NON-COOKING,51.621
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2009",COAL,SECL,CIL,NON-COOKING,12.431
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2009",COAL,WCL,CIL,COOKING,0.73
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2009",COAL,WCL,CIL,NON-COOKING,6.307
+India,Maharashtra,"Financial Year (Apr - Mar), 2009",COAL,KECML/KEMTA,PRIVATE,NON-COOKING,0.991
+India,Maharashtra,"Financial Year (Apr - Mar), 2009",COAL,SIL,PRIVATE,NON-COOKING,0.051
+India,Maharashtra,"Financial Year (Apr - Mar), 2009",COAL,WCL,CIL,NON-COOKING,37.663
+India,Meghalaya,"Financial Year (Apr - Mar), 2009",COAL,MEG,PRIVATE,NON-COOKING,5.489
+India,Odisha,"Financial Year (Apr - Mar), 2009",COAL,HIL,PRIVATE,NON-COOKING,2.066
+India,Odisha,"Financial Year (Apr - Mar), 2009",COAL,MCL,CIL,NON-COOKING,96.336
+India,Rajasthan,"Financial Year (Apr - Mar), 2009",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.999
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2009",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,21.308
+India,Telangana,"Financial Year (Apr - Mar), 2009",COAL,SCCL,OTHER PUBLIC,NON-COOKING,18.4353196708515
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2009",COAL,NCL,CIL,NON-COOKING,12.029
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,BCCL,CIL,COOKING,0.033
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,BCCL,CIL,NON-COOKING,0.096
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,BECML,PRIVATE,NON-COOKING,4.139
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,ECL,CIL,COOKING,0.023
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,ECL,CIL,NON-COOKING,15.36
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,ICML,PRIVATE,NON-COOKING,2.984
+India,West Bengal,"Financial Year (Apr - Mar), 2009",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.27
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2008",COAL,SCCL,OTHER PUBLIC,NON-COOKING,23.8000732744746
+India,Arunachal Pradesh,"Financial Year (Apr - Mar), 2008",COAL,APMDTCL,OTHER PUBLIC,NON-COOKING,0.079
+India,Assam,"Financial Year (Apr - Mar), 2008",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.101
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,JNL,PRIVATE,NON-COOKING,0.279
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,JPL,PRIVATE,NON-COOKING,0.578
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,JSPL,PRIVATE,NON-COOKING,5.994
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.835
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,PIL,PRIVATE,NON-COOKING,0.9
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,SECL,CIL,COOKING,0.159
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2008",COAL,SECL,CIL,NON-COOKING,81.427
+India,Gujarat,"Financial Year (Apr - Mar), 2008",LIGNITE,GHCL,PRIVATE,LIGNITE,0.091
+India,Gujarat,"Financial Year (Apr - Mar), 2008",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,1.73
+India,Gujarat,"Financial Year (Apr - Mar), 2008",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,9.967
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2008",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0166281566208336
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,BCCL,CIL,COOKING,11.973
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,BCCL,CIL,NON-COOKING,13.081
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,CCL,CIL,COOKING,13.286
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,CCL,CIL,NON-COOKING,30.86
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,DVC,OTHER PUBLIC,COOKING,0.385
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,ECL,CIL,COOKING,0.015
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,ECL,CIL,NON-COOKING,8.959
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.722
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.007
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.601
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,3.797
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,TISCO/TSL,PRIVATE,COOKING,7.185
+India,Jharkhand,"Financial Year (Apr - Mar), 2008",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.024
+India,Ladakh,"Financial Year (Apr - Mar), 2008",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.00037184337916643
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2008",COAL,BLA,PRIVATE,NON-COOKING,0.329
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2008",COAL,NCL,CIL,NON-COOKING,48.197
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2008",COAL,SECL,CIL,NON-COOKING,12.205
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2008",COAL,WCL,CIL,COOKING,0.676
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2008",COAL,WCL,CIL,NON-COOKING,6.434
+India,Maharashtra,"Financial Year (Apr - Mar), 2008",COAL,SIL,PRIVATE,NON-COOKING,0.001
+India,Maharashtra,"Financial Year (Apr - Mar), 2008",COAL,WCL,CIL,NON-COOKING,36.402
+India,Meghalaya,"Financial Year (Apr - Mar), 2008",COAL,MEG,PRIVATE,NON-COOKING,6.541
+India,Odisha,"Financial Year (Apr - Mar), 2008",COAL,HIL,PRIVATE,NON-COOKING,1.47
+India,Odisha,"Financial Year (Apr - Mar), 2008",COAL,MCL,CIL,NON-COOKING,88.012
+India,Rajasthan,"Financial Year (Apr - Mar), 2008",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.606
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2008",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,21.586
+India,Telangana,"Financial Year (Apr - Mar), 2008",COAL,SCCL,OTHER PUBLIC,NON-COOKING,16.8039267255254
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2008",COAL,NCL,CIL,NON-COOKING,11.426
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,BCCL,CIL,COOKING,0.032
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,BCCL,CIL,NON-COOKING,0.129
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,BECML,PRIVATE,NON-COOKING,4.229
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,ECL,CIL,COOKING,0.022
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,ECL,CIL,NON-COOKING,15.063
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,ICML,PRIVATE,NON-COOKING,2.754
+India,West Bengal,"Financial Year (Apr - Mar), 2008",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.292
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2007",COAL,SCCL,OTHER PUBLIC,NON-COOKING,22.1019939651417
+India,Assam,"Financial Year (Apr - Mar), 2007",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.05
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,JNL,PRIVATE,NON-COOKING,0.059
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,JSPL,PRIVATE,NON-COOKING,5.968
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.668
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,PIL,PRIVATE,NON-COOKING,0.625
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,SECL,CIL,COOKING,0.157
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2007",COAL,SECL,CIL,NON-COOKING,75.764
+India,Gujarat,"Financial Year (Apr - Mar), 2007",LIGNITE,GHCL,PRIVATE,LIGNITE,0.159
+India,Gujarat,"Financial Year (Apr - Mar), 2007",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,1.66
+India,Gujarat,"Financial Year (Apr - Mar), 2007",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,7.989
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2007",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0156500297607845
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,BCCL,CIL,COOKING,11.063
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,BCCL,CIL,NON-COOKING,12.977
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,CCL,CIL,COOKING,12.168
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,CCL,CIL,NON-COOKING,29.151
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,DVC,OTHER PUBLIC,COOKING,0.385
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,ECL,CIL,COOKING,0.057
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,ECL,CIL,NON-COOKING,13.253
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.389
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.677
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,1.603
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,TISCO/TSL,PRIVATE,COOKING,7.036
+India,Jharkhand,"Financial Year (Apr - Mar), 2007",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.005
+India,Ladakh,"Financial Year (Apr - Mar), 2007",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000349970239215464
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2007",COAL,BLA,PRIVATE,NON-COOKING,0.218
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2007",COAL,NCL,CIL,NON-COOKING,39.93
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2007",COAL,SECL,CIL,NON-COOKING,12.581
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2007",COAL,WCL,CIL,COOKING,0.775
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2007",COAL,WCL,CIL,NON-COOKING,6.222
+India,Maharashtra,"Financial Year (Apr - Mar), 2007",COAL,WCL,CIL,NON-COOKING,36.215
+India,Meghalaya,"Financial Year (Apr - Mar), 2007",COAL,MEG,PRIVATE,NON-COOKING,5.787
+India,Odisha,"Financial Year (Apr - Mar), 2007",COAL,HIL,PRIVATE,NON-COOKING,1.159
+India,Odisha,"Financial Year (Apr - Mar), 2007",COAL,MCL,CIL,NON-COOKING,80.001
+India,Rajasthan,"Financial Year (Apr - Mar), 2007",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.463
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2007",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,21.014
+India,Telangana,"Financial Year (Apr - Mar), 2007",COAL,SCCL,OTHER PUBLIC,NON-COOKING,15.6050060348583
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2007",COAL,NCL,CIL,NON-COOKING,12.228
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,BCCL,CIL,COOKING,0.042
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,BCCL,CIL,NON-COOKING,0.123
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,BECML,PRIVATE,NON-COOKING,4.765
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,ECL,CIL,COOKING,0.025
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,ECL,CIL,NON-COOKING,17.131
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,ICML,PRIVATE,NON-COOKING,2.546
+India,West Bengal,"Financial Year (Apr - Mar), 2007",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.306
+India,Andhra Pradesh,"Financial Year (Apr - Mar), 2006",COAL,SCCL,OTHER PUBLIC,NON-COOKING,21.1823231207015
+India,Assam,"Financial Year (Apr - Mar), 2006",COAL,NEC,OTHER PUBLIC,NON-COOKING,1.101
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2006",COAL,JSPL,PRIVATE,NON-COOKING,5.31
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2006",COAL,MIL/MIEL,PRIVATE,NON-COOKING,0.439
+India,Chhattisgarh,"Financial Year (Apr - Mar), 2006",COAL,SECL,CIL,NON-COOKING,70.459
+India,Gujarat,"Financial Year (Apr - Mar), 2006",LIGNITE,GIPCL,OTHER PUBLIC,LIGNITE,1.725
+India,Gujarat,"Financial Year (Apr - Mar), 2006",LIGNITE,GMDCL,OTHER PUBLIC,LIGNITE,7.221
+India,Jammu And Kashmir,"Financial Year (Apr - Mar), 2006",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.0185844103409316
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,BCCL,CIL,COOKING,10.819
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,BCCL,CIL,NON-COOKING,12.263
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,CCL,CIL,COOKING,12.056
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,CCL,CIL,NON-COOKING,28.457
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,CML OR BECML,PRIVATE,COOKING,0.012
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,DVC,OTHER PUBLIC,COOKING,0.368
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,ECL,CIL,COOKING,0.09
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,ECL,CIL,NON-COOKING,13.614
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.435
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.001
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,JSMDCL,OTHER PUBLIC,NON-COOKING,0.762
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,PANEM/PSEB,OTHER PUBLIC,NON-COOKING,0.025
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,TISCO/TSL,PRIVATE,COOKING,6.515
+India,Jharkhand,"Financial Year (Apr - Mar), 2006",COAL,TISCO/TSL,PRIVATE,NON-COOKING,0.006
+India,Ladakh,"Financial Year (Apr - Mar), 2006",COAL,JKML,OTHER PUBLIC,NON-COOKING,0.000415589659068363
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2006",COAL,BLA,PRIVATE,NON-COOKING,0.282
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2006",COAL,NCL,CIL,NON-COOKING,35.797
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2006",COAL,SECL,CIL,NON-COOKING,12.415
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2006",COAL,WCL,CIL,COOKING,0.932
+India,Madhya Pradesh,"Financial Year (Apr - Mar), 2006",COAL,WCL,CIL,NON-COOKING,6.153
+India,Maharashtra,"Financial Year (Apr - Mar), 2006",COAL,WCL,CIL,NON-COOKING,36.119
+India,Meghalaya,"Financial Year (Apr - Mar), 2006",COAL,MEG,PRIVATE,NON-COOKING,5.565
+India,Odisha,"Financial Year (Apr - Mar), 2006",COAL,HIL,PRIVATE,NON-COOKING,0.936
+India,Odisha,"Financial Year (Apr - Mar), 2006",COAL,MCL,CIL,NON-COOKING,69.604
+India,Rajasthan,"Financial Year (Apr - Mar), 2006",LIGNITE,RSMML,OTHER PUBLIC,LIGNITE,0.677
+India,Tamil Nadu,"Financial Year (Apr - Mar), 2006",LIGNITE,NLC,OTHER PUBLIC,LIGNITE,20.551
+India,Telangana,"Financial Year (Apr - Mar), 2006",COAL,SCCL,OTHER PUBLIC,NON-COOKING,14.9556768792985
+India,Uttar Pradesh,"Financial Year (Apr - Mar), 2006",COAL,NCL,CIL,NON-COOKING,15.721
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,BCCL,CIL,COOKING,0.067
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,BCCL,CIL,NON-COOKING,0.162
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,BECML,PRIVATE,NON-COOKING,3.992
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,ECL,CIL,COOKING,0.042
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,ECL,CIL,NON-COOKING,17.368
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,ICML,PRIVATE,NON-COOKING,2.622
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,IISCO/SAIL,OTHER PUBLIC,COOKING,0.025
+India,West Bengal,"Financial Year (Apr - Mar), 2006",COAL,IISCO/SAIL,OTHER PUBLIC,NON-COOKING,0.197
